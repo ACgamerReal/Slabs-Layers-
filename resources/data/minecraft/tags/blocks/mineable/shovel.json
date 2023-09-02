@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "moreslabs:sand_slab",
+    "moreslabs:dirt_slab",
+    "moreslabs:sand_layer",
+    "moreslabs:dirt_layer"
+
+  ]
+}
